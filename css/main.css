@@ -141,6 +141,7 @@ textarea:focus, input:focus{
   top: 0;
 
 }
+.pt-70 {padding-top: 70px}
 .pt-100{padding-top:100px}
 .pb-100{padding-bottom:100px}
 .pb-70{padding-bottom:70px}
@@ -1452,7 +1453,7 @@ transition: all 0.5s ease-out 0s;background:#22253a;color:#fff;border-color:#fff
 .team-sec-image {
 	background: #0f1934 none repeat scroll 0 0;
 	padding: 110px 0;
-	background-image: url(../img/why-us-bg.jpg);
+	background-image: url(../images/CustomerKingwithlogo.jpg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -1747,13 +1748,13 @@ visibility:visible;bottom:0px;
 /*
 14.FAQ Section
 ============================*/
-.why-choose-us-v1-sec{
+.why-choose-us-v1-sec {
 	background-color: #fff;
-	background-image: url("../img/slide2.jpg");
+	background-image: url("../images/slide1.jpg");
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
-	overflow:hidden;
+	overflow: hidden;
 }
 .why-choose-v1-title {
 	margin: 0;text-align:left;
@@ -3762,4 +3763,58 @@ padding:10px
 .site-developer span  a{
 	color:#f55b14;
 }
+
+.orange-color {
+	color:rgba(245, 91, 20, 0.95);
+}
+
+.call-to-action-btn {
+	text-align: left;
+}
+
+.call-to-action-btn {
+	color: #fff;
+}
+
+	.call-to-action-btn p {
+		margin-bottom: 0;
+	}
+
+	.call-to-action-btn h2 {
+		color: #fff;
+		text-transform: capitalize !important;
+		font-size: 30px;
+		font-weight: bold
+	}
+
+	.call-to-action-btn a.btn {
+		background: #0f1934 none repeat scroll 0 0;
+		border-radius: 0;
+		color: #fff;
+		float: right;
+		font-weight: bold;
+		padding: 14px 36px;
+		text-transform: uppercase;
+		margin-top: 10px;
+		position: relative;
+	}
+
+		.call-to-action-btn a.btn i {
+			margin-left: 10px;
+			color: #fff;
+			font-size: 20px;
+			font-weight: bold;
+		}
+
+		.call-to-action-btn a.btn:hover {
+			background: #fff;
+			transition: all 0.4s ease-in-out 0s;
+			color: #0f1934;
+			border: 1px solid;
+		}
+
+			.call-to-action-btn a.btn:hover i {
+				color: #0f1934;
+			}
+
 /* The End */
