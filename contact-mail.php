@@ -5,7 +5,7 @@ $cf_phone = $_POST['phone'];
 $cf_subject = $_POST['subject'];
 $cf_message = $_POST['message'];
 
-$mail_to = 'test@xyz.com';
+$mail_to = 'info@themeearth.com';
 $subject = 'Message from a site visitor '.$cf_name;
 
 $body_message = 'From: '.$cf_name."\n";
@@ -28,7 +28,7 @@ if ($mail_status) { ?>
 }
 else { ?>
 	<script language="javascript" type="text/javascript">
-		alert('Message failed. Please, send an email to test@xyz.com');
+		alert('Message failed. Please, send an email to shiddikurrahaman@gmail.com');
 		window.location = 'contact.html';
 	</script>
 <?php
