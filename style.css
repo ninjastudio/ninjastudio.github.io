@@ -1,1 +1,423 @@
 /*Input Your Custom CSS Here*/
+
+.orange-color {
+    color: rgba(245, 91, 20, 0.95)  !important;
+}
+
+.call-to-action-btn {
+    text-align: left;
+}
+
+.call-to-action-btn {
+    color: #fff;
+}
+
+    .call-to-action-btn p {
+        margin-bottom: 0;
+    }
+
+    .call-to-action-btn h2 {
+        color: #fff;
+        text-transform: capitalize !important;
+        font-size: 30px;
+        font-weight: bold
+    }
+
+    .call-to-action-btn a.btn {
+        background: #0f1934 none repeat scroll 0 0;
+        border-radius: 0;
+        color: #fff;
+        float: right;
+        font-weight: bold;
+        padding: 14px 36px;
+        text-transform: uppercase;
+        margin-top: 10px;
+        position: relative;
+    }
+
+        .call-to-action-btn a.btn i {
+            margin-left: 10px;
+            color: #fff;
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+        .call-to-action-btn a.btn:hover {
+            background: #fff;
+            transition: all 0.4s ease-in-out 0s;
+            color: #0f1934;
+            border: 1px solid;
+        }
+
+            .call-to-action-btn a.btn:hover i {
+                color: #0f1934;
+            }
+
+.cinema-pagehding-sec {
+    background-image: url("img/CinemaAdvertisingBanner.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    padding-top: 130px;
+    position: relative;
+    background-size: cover;
+}
+
+.home-v1 footer.cinema-footer {
+    background-image: url(img/CinemaAdvertisingBanner2.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+}
+
+.newspaper-pagehding-sec {
+    background-image: url("img/NewspaperAdvertisingBanner.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    padding-top: 130px;
+    position: relative;
+    background-size: cover;
+}
+
+.home-v1 footer.newspaper-footer {
+    background-image: url(img/NewspaperAdvertisingBanner2.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+}
+
+.television-pagehding-sec {
+    background-image: url("img/TelevisionAdvertisingBanner.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    padding-top: 130px;
+    position: relative;
+    background-size: cover;
+}
+
+.home-v1 footer.television-footer {
+    background-image: url(img/TelevisionAdvertisingBanner.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+}
+
+.digital-pagehding-sec {
+    background-image: url("img/DigitalMarketingBanner.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    padding-top: 130px;
+    position: relative;
+    background-size: cover;
+}
+
+.home-v1 footer.digital-footer {
+    background-image: url(img/DigitalMarketingBanner.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+}
+
+.designing-pagehding-sec {
+    background-image: url("img/DesigningandPrintingBanner.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    padding-top: 130px;
+    position: relative;
+    background-size: cover;
+}
+
+.home-v1 footer.designing-footer {
+    background-image: url(img/DesigningandPrintingBanner2.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+}
+
+.content-pagehding-sec {
+    background-image: url("img/ContentWritingBanner.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    padding-top: 130px;
+    position: relative;
+    background-size: cover;
+}
+
+.home-v1 footer.content-footer {
+    background-image: url(img/ContentWritingBanner2.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+}
+
+.about-pagehding-sec {
+    background-image: url("img/FooterBanner1.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    padding-top: 130px;
+    position: relative;
+    background-size: cover;
+}
+
+.home-v1 footer.about-footer {
+    background-image: url(img/FooterBanner2.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+}
+
+.contactus-pagehding-sec {
+    background-image: url("img/Contactusbanner1920x350.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    padding-top: 130px;
+    position: relative;
+    background-size: cover;
+}
+
+.font-white {
+    color: #FFF;
+}
+
+.sec-title-our-client h1 {
+    font-size: 36px;
+    text-transform: capitalize;
+    color: #FFF;
+    font-weight: bold;
+}
+
+.sec-title-our-client {
+    text-align: center;
+    margin: 0 150px 50px 150px;
+}
+
+.pt-6px {
+padding-top: 6px;
+}
+
+.pt-16px {
+    padding-top: 16px;
+}
+
+.why-choose-v1-single-small .media-left::before {
+    height: 100px !important;
+   }
+
+.why-choose-us-cinema {
+    background-color: #fff;
+    background-image: url("img/WhyusImagesCinemaAdvertising.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.call-to-action-text-small h2 {
+    text-transform: none !important;
+}
+
+.call-to-action-sec-cinema1 {
+    background-color: #f55b14;
+    background-image: url("img/LetsconnectbannersCinema1.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    padding: 40px 0px;
+}
+
+
+.call-to-action-sec-cinema2 {
+    background-color: #f55b14;
+    background-image: url("img/LetsconnectbannersCinema2.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    padding: 40px 0px;
+}
+
+
+.why-choose-us-Newspaper {
+    background-color: #fff;
+    background-image: url("img/WhyusNewspaperAdvt.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+
+
+.call-to-action-sec-Newspaper1 {
+    background-color: #f55b14;
+    background-image: url("img/LetsconnectbannersNewspaper1.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    padding: 40px 0px;
+}
+
+
+.call-to-action-sec-Newspaper2 {
+    background-color: #f55b14;
+    background-image: url("img/LetsconnectbannersNewspaper2.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    padding: 40px 0px;
+}
+
+
+.why-choose-us-Television {
+    background-color: #fff;
+    background-image: url("img/WhyusImagesTelevisionAdvt.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+
+
+.call-to-action-sec-Television1 {
+    background-color: #f55b14;
+    background-image: url("img/LetsconnectbannersTelevision1.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    padding: 40px 0px;
+}
+
+
+.call-to-action-sec-Television2 {
+    background-color: #f55b14;
+    background-image: url("img/LetsconnectbannersTelevision2.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    padding: 40px 0px;
+}
+
+
+
+.why-choose-us-Digital {
+    background-color: #fff;
+    background-image: url("img/WhyusImagesDigital.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+
+
+.call-to-action-sec-Digital1 {
+    background-color: #f55b14;
+    background-image: url("img/LetsconnectbannersDigital1.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    padding: 40px 0px;
+}
+
+
+
+.call-to-action-sec-designing {
+    background-color: #f55b14;
+    background-image: url("img/LetsconnectbannersDesigning.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    padding: 40px 0px;
+}
+
+
+.why-choose-us-hoarding {
+    background-color: #fff;
+    background-image: url("img/WhyusImageshoarding.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+
+
+.call-to-action-sec-hoarding {
+    background-color: #f55b14;
+    background-image: url("img/LetsconnectbannersHoarding.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    padding: 40px 0px;
+}
+
+.call-to-action-sec-ContentWriting {
+    background-color: #f55b14;
+    background-image: url("img/LetsconnectbannersContentWriting.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    padding: 40px 0px;
+}
+
+.cinema-portfolio-pagehding-sec {
+    background-image: url("img/CinemaAdvertisingBanner2.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    padding-top: 130px;
+    position: relative;
+    background-size: cover;
+}
+
+.newspaper-portfolio-pagehding-sec {
+    background-image: url("img/NewspaperAdvertisingBanner2.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    padding-top: 130px;
+    position: relative;
+    background-size: cover;
+}
+.television-portfolio-pagehding-sec {
+    background-image: url("img/TelevisionPortfoliobanner.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    padding-top: 130px;
+    position: relative;
+    background-size: cover;
+}
+.digital-portfolio-pagehding-sec {
+    background-image: url("img/DigitalMarketingBanner2.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    padding-top: 130px;
+    position: relative;
+    background-size: cover;
+}
+.designing-portfolio-pagehding-sec {
+    background-image: url("img/DesigningandPrintingBanner2.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    padding-top: 130px;
+    position: relative;
+    background-size: cover;
+}
+.content-portfolio-pagehding-sec {
+    background-image: url("img/ContentWritingBanner2.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    padding-top: 130px;
+    position: relative;
+    background-size: cover;
+}

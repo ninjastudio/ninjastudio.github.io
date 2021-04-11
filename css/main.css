@@ -1694,7 +1694,7 @@ visibility:visible;bottom:0px;
 ============================*/
 .call-to-action-sec {
 	background-color: #f55b14;
-	background-image: url("../img/call_to_action_bg.jpg");
+	background-image: url("../img/HomePageConnectBanner.jpg");
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -1750,7 +1750,7 @@ visibility:visible;bottom:0px;
 ============================*/
 .why-choose-us-v1-sec {
 	background-color: #fff;
-	background-image: url("../images/slide1.jpg");
+	background-image: url("../img/whyUs.jpg");
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -2064,8 +2064,8 @@ padding-left: 0;
 .testimonial-v1-sec {
 	background: #fff none repeat scroll 0 0;
 	padding: 110px 0;
-	background-image: url(../img/testimonial-bg.jpg);
-	background-repeat:repeat;
+	background-image: url(../img/ourclientbackground2.jpg);
+	background-repeat: repeat;
 	background-position: center center;
 	position: relative;
 }
@@ -2112,29 +2112,37 @@ padding-left: 0;
 	border-radius: 100%;
 	margin-right: 14px;
 	margin-top: -8px;
+	margin-bottom: 10px;
 }
+
 .single-testimonial-v1 .details span {
 	text-transform: capitalize;
+	font-size: 14px;
 }
+
 .single-testimonial-v1 .testimonial-v1-img img {
 	border-radius: 100%;
 }
+
 .single-testimonial-v1 .details h2 {
 	font-weight: 600;
 	margin-bottom: 5px;
 	text-transform: capitalize;
 	font-size: 18px;
 }
+
 .single-testimonial-v1 .details {
 	margin-bottom: 20px;
 }
 .single-testimonial-v1 .rating i{
   color: #f55b14;
 }
+
 .testimonial-v1-all.owl-carousel.owl-theme .owl-dots {
 	text-align: center;
 	margin-top: 50px;
 }
+
 .testimonial-v1-all.owl-carousel.owl-theme .owl-dot {
 	border-radius: 5px;
 	display: inline-block;
@@ -3538,7 +3546,7 @@ padding-right: 10px;
 Footer Section 
 ======================*/
 .home-v1 footer.footer {
-	background-image: url(../img/FooterBanner1.jpg);
+	background-image: url(../img/FooterBanner2.jpg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -3764,167 +3772,5 @@ padding:10px
 	color:#f55b14;
 }
 
-.orange-color {
-	color:rgba(245, 91, 20, 0.95);
-}
-
-.call-to-action-btn {
-	text-align: left;
-}
-
-.call-to-action-btn {
-	color: #fff;
-}
-
-	.call-to-action-btn p {
-		margin-bottom: 0;
-	}
-
-	.call-to-action-btn h2 {
-		color: #fff;
-		text-transform: capitalize !important;
-		font-size: 30px;
-		font-weight: bold
-	}
-
-	.call-to-action-btn a.btn {
-		background: #0f1934 none repeat scroll 0 0;
-		border-radius: 0;
-		color: #fff;
-		float: right;
-		font-weight: bold;
-		padding: 14px 36px;
-		text-transform: uppercase;
-		margin-top: 10px;
-		position: relative;
-	}
-
-		.call-to-action-btn a.btn i {
-			margin-left: 10px;
-			color: #fff;
-			font-size: 20px;
-			font-weight: bold;
-		}
-
-		.call-to-action-btn a.btn:hover {
-			background: #fff;
-			transition: all 0.4s ease-in-out 0s;
-			color: #0f1934;
-			border: 1px solid;
-		}
-
-			.call-to-action-btn a.btn:hover i {
-				color: #0f1934;
-			}
-
-.cinema-pagehding-sec {
-	background-image: url("../img/CinemaAdvertisingBanner.jpg");
-	background-position: center center;
-	background-repeat: no-repeat;
-	padding-top: 130px;
-	position: relative;
-	background-size: cover;
-}
-.home-v1 footer.cinema-footer {
-	background-image: url(../img/CinemaAdvertisingBanner2.jpg);
-	background-repeat: no-repeat;
-	background-position: center center;
-	background-size: cover;
-	position: relative;
-}
-.newspaper-pagehding-sec {
-	background-image: url("../img/NewspaperAdvertisingBanner.jpg");
-	background-position: center center;
-	background-repeat: no-repeat;
-	padding-top: 130px;
-	position: relative;
-	background-size: cover;
-}
-.home-v1 footer.newspaper-footer {
-	background-image: url(../img/NewspaperAdvertisingBanner2.jpg);
-	background-repeat: no-repeat;
-	background-position: center center;
-	background-size: cover;
-	position: relative;
-}
-
-.television-pagehding-sec {
-	background-image: url("../img/TelevisionAdvertisingBanner.jpg");
-	background-position: center center;
-	background-repeat: no-repeat;
-	padding-top: 130px;
-	position: relative;
-	background-size: cover;
-}
-.home-v1 footer.television-footer {
-	background-image: url(../img/TelevisionAdvertisingBanner.jpg);
-	background-repeat: no-repeat;
-	background-position: center center;
-	background-size: cover;
-	position: relative;
-}
-
-.digital-pagehding-sec {
-	background-image: url("../img/DigitalMarketingBanner.jpg");
-	background-position: center center;
-	background-repeat: no-repeat;
-	padding-top: 130px;
-	position: relative;
-	background-size: cover;
-}
-.home-v1 footer.digital-footer {
-	background-image: url(../img/DigitalMarketingBanner.jpg);
-	background-repeat: no-repeat;
-	background-position: center center;
-	background-size: cover;
-	position: relative;
-}
-
-.designing-pagehding-sec {
-	background-image: url("../img/DesigningandPrintingBanner.jpg");
-	background-position: center center;
-	background-repeat: no-repeat;
-	padding-top: 130px;
-	position: relative;
-	background-size: cover;
-}
-.home-v1 footer.designing-footer {
-	background-image: url(../img/DesigningandPrintingBanner2.jpg);
-	background-repeat: no-repeat;
-	background-position: center center;
-	background-size: cover;
-	position: relative;
-}
-
-.content-pagehding-sec {
-	background-image: url("../img/ContentWritingBanner.jpg");
-	background-position: center center;
-	background-repeat: no-repeat;
-	padding-top: 130px;
-	position: relative;
-	background-size: cover;
-}
-.home-v1 footer.content-footer {
-	background-image: url(../img/ContentWritingBanner2.jpg);
-	background-repeat: no-repeat;
-	background-position: center center;
-	background-size: cover;
-	position: relative;
-}
-.about-pagehding-sec {
-	background-image: url("../img/FooterBanner1.jpg");
-	background-position: center center;
-	background-repeat: no-repeat;
-	padding-top: 130px;
-	position: relative;
-	background-size: cover;
-}
-.home-v1 footer.about-footer {
-	background-image: url(../img/FooterBanner2.jpg);
-	background-repeat: no-repeat;
-	background-position: center center;
-	background-size: cover;
-	position: relative;
-}
 
 /* The End */
