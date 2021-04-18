@@ -1,5 +1,7 @@
 /*Input Your Custom CSS Here*/
-
+body p {
+text-align:justify;
+}
 .orange-color {
     color: rgba(245, 91, 20, 0.95)  !important;
 }
@@ -63,7 +65,7 @@
 }
 
 .home-v1 footer.cinema-footer {
-    background-image: url(img/CinemaAdvertisingBanner2.jpg);
+    background-image: url(img/FooterBanner2.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -278,10 +280,8 @@ padding-top: 6px;
 
 .why-choose-us-Television {
     background-color: #fff;
-    background-image: url("img/WhyusImagesTelevisionAdvt.jpg");
-    background-position: center center;
+    background-image: url("img/WhyusImagesTelevisionAdvt.jpg");  
     background-repeat: no-repeat;
-    background-size: cover;
     overflow: hidden;
 }
 
@@ -311,10 +311,9 @@ padding-top: 6px;
 
 .why-choose-us-Digital {
     background-color: #fff;
-    background-image: url("img/WhyusImagesDigital.jpg");
-    background-position: center center;
+    background-image: url("img/WhyusImagesDigital.jpg");    
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     overflow: hidden;
 }
 
@@ -345,9 +344,9 @@ padding-top: 6px;
 .why-choose-us-hoarding {
     background-color: #fff;
     background-image: url("img/WhyusImageshoarding.jpg");
-    background-position: center center;
+ 
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     overflow: hidden;
 }
 
